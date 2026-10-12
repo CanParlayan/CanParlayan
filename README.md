@@ -25,21 +25,7 @@ I work in offensive security, with hands-on experience testing **web application
 ### Currently building
 
 - **ProjectDrum** — a Unity rhythm/drumming prototype exploring drum input and chart-to-recording synchronization *(private development repository)*
-- **Trench Warfare** — a Unity trench-combat game prototype *(private development repository)*
 
-
-### Earlier projects and coursework
-
-My earlier university projects are preserved as **historical/archived work**, separate from actively maintained repositories. They reflect what I learned at the time, and may use older dependencies or development approaches.
-
-<details>
-<summary>View academic projects</summary>
-
-- [CE340 — Network Discovery & Scanning](https://github.com/CanParlayan/CE340-Cryptography-project) — network scanning lab
-- [SE216 — Animal Adoption System](https://github.com/CanParlayan/SE216_AnimalAdoptionSystem) — Python/Kivy app prototype
-- [SE226 — Graph Coloring Visualizer](https://github.com/CanParlayan/SE226-Project) — Python/Tkinter coursework
-- [Procat Hanoi Game](https://github.com/CanParlayan/ProcatHanoiGameProject) — student team web game
-- [S3T9 Dungeon Game](https://github.com/CanParlayan/S3T9-Game-Project) — Java dungeon game and libGDX experiments
 
 </details>
 
